@@ -2,7 +2,7 @@
 
 Hi, I'm Mona (yes, same as the Github mascot). I am currently pursuing a Bachelor's in Computer Science. Here you can find some of my personal and hackathon projects.
 
-Some languages, software, and tools that I have experience with:
+Languages, software, and tools that I have experience with include:
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -17,7 +17,7 @@ Some languages, software, and tools that I have experience with:
 ![Git](https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?&logo=github&logoColor=white)
 
-![Microsoft 365 Suite](https://img.shields.io/badge/microsoft%20suite-6264A7)
+![Microsoft 365 Suite](https://img.shields.io/badge/microsoft%20suite-6264A7?&logoColor=white)
 ![Google Workspace Suite](https://img.shields.io/badge/google%20suite-4285F4?logo=googleappsscript&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-A259FF?logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/inkscape-000000?logo=inkscape&logoColor=white)
