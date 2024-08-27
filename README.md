@@ -1,8 +1,8 @@
-## Yello ✌️
+## ✌️
 
-Hi, I'm Mona (yes, same as the Github mascot). I am currently pursuing a Bachelor's in Computer Science. Here you can find some of my personal and hackathon projects.
+Hi, I'm Mona (yes, same as the Github mascot). I am currently pursuing a Bachelor's in Computer Science. Here you can find some of my personal, school, and hackathon projects.
 
-Languages, software, and tools that I have experience with include:
+<!-- Languages, software, and tools that I have experience with include:
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -24,7 +24,7 @@ Languages, software, and tools that I have experience with include:
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-3BABFF?logo=krita&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/wix-0C6EFC?logo=wix&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-0C6EFC?logo=wix&logoColor=white) -->
 
 <!--
 **06j07m/06j07m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
