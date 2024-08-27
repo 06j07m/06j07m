@@ -2,7 +2,7 @@
 
 Hi, I'm Mona (yes, same as the Github mascot). I am currently pursuing a Bachelor's in Computer Science. Here you can find some of my personal, school, and hackathon projects.
 
-Languages, software, and tools that I have am using or learning include:
+Languages, software, and tools that I'm currently using or learning include:
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
