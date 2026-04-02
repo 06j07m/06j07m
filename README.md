@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 I'm currently studying Computer Science at McGill University.
 
-My main interests are in in web development, NLP/computational linguistics, and data science.
+My main interests are in web development, NLP/computational linguistics, and data science.
 
 Please reach out via email if you would like to connect!
