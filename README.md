@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I'm Mona!**
+**Hi, I'm Mona!** I'm studying Computer Science at McGill University.
 
-I'm currently studying Computer Science at McGill University.
-
-My main interests are in web development, NLP/computational linguistics, and data science.
+My main interests are in web development, NLP/computational linguistics, and data science. I hope to work on projects that make technology more accessible, especially for underrepresented communities. Currently, my goal is to investigate how NLP can help revitalize endangered languages.
 
 Please reach out via email if you would like to connect!
